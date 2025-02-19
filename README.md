@@ -1,4 +1,4 @@
-Myntra Review Analysis – Python, MongoDB, Streamlit
+# Myntra Review Analysis – Python, MongoDB, Streamlit
 
 Developed a review analysis system for Myntra using web scraping, data processing, and sentiment analysis. Implemented:
 
